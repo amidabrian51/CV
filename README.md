@@ -4,22 +4,23 @@
 
 **Profile**
 
-Passionate about technology and software development, I'm self taught iOS developer and have had 5 Apps featured in the iOS App store. I completed Makers Academy, Europe's leading software developer bootcamp, and I am looking to forge in career in Web Development. Please see my [personal website](http://site-brian-patterson.strikingly.com).
+Passionate about technology and software development. I completed Makers Academy, Europe's leading software developer bootcamp, and I am looking to forge in career in Web Development. Please see my [personal website](http://site-brian-patterson.strikingly.com).
 
 **Skills**
 
 **Development**
 
-Before Makers my introduction to code was through the iPhone. Since 2012 I have contributed 5 apps to the app store. The process of creation and development felt empowering and self fulfilling. Four years later I am looking to embark on a career in Software Development.
+Before Makers my introduction to code was through the iPhone. Since 2012 I have contributed 5 apps to the app store. The process of creation and development felt empowering and self fulfilling. Eight years later I am looking to embark on a career in Software Development.
 
-**Business Practise**
+**Career and Achievements to date**
 
 My MBA and my commercial experience over the past 34 years have taught me these key issues:
 
-* Listening to customers needs.
-* Implement strategic messages i.e. Key employee and staff focus messages.
-* Working with business software from the client perspective.
-* When the new payroll software was introduced. Tested and advised developers how the software could be improved.
+* Successfully managed estimates and invoicing for customer projects at Royal School of Needlework (2018-2020)
+* Facilitated all executive board’s operations meetings as strategic portfolio officer at Kew Gardens (2018).
+* Completed wide-ranging administration & customer service tasks as part of a small team at Danbury Mint (2017)
+* Instrumental in setting up administrative and IT support for a £20 million David Lloyd Health Club (2003-16).
+* Managed IT infrastructure; overseeing networks and setting up work stations, databases and software support
 * Implemented a guide on how employees could use the app.
 
 **Listening**
@@ -61,7 +62,7 @@ One of reasons I chose this career path is so that it would play to my strengths
 
 **iPhone Development (2012 to 2016)**
 
-* Submitted 5 app to the App store
+* Submitted 5 apps to the App store
 * Swift Programming
 * Object C
 * Xcode
